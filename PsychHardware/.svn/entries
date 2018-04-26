@@ -1,0 +1,312 @@
+8
+
+dir
+1635
+svn://svn.berlios.de/osxptb/beta/Psychtoolbox/PsychHardware
+svn://svn.berlios.de/osxptb
+
+
+
+2010-01-11T01:56:52.379376Z
+1630
+kleinerm
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f5efbe48-b203-0410-9429-fc5e098e5a54
+
+GetMouseIndices.m
+file
+
+
+
+
+2010-02-01T22:37:40.311554Z
+5c89e4feec9c8ae84341f99bb585ebc5
+2010-01-11T01:56:52.379376Z
+1630
+kleinerm
+
+NetStation.m
+file
+
+
+
+
+2010-02-01T22:37:40.311554Z
+c0a1fcec8e2bce889d08fed9a5a293b2
+2008-06-05T21:23:07.156793Z
+1062
+kleinerm
+has-props
+
+PsychHID.mexmac
+file
+
+
+
+
+2010-02-01T22:37:40.311554Z
+2341c9699d801fc66a2858f624869c33
+2010-01-11T01:56:52.379376Z
+1630
+kleinerm
+has-props
+
+SerialComm.m
+file
+
+
+
+
+2010-02-01T22:37:40.327179Z
+d7f51c2f4cdcd358db3c15c68d420295
+2009-02-18T01:34:23.476633Z
+1245
+kleinerm
+has-props
+
+MeasSpd.m
+file
+
+
+
+
+2010-02-01T22:37:40.327179Z
+ee155652df59d15b7a9c0d0158143940
+2009-02-18T01:34:23.476633Z
+1245
+kleinerm
+
+GetGamepadIndices.m
+file
+
+
+
+
+2010-02-01T22:37:40.327179Z
+2fe8fab98743b9e42d5c7c7886fee1e3
+2006-01-20T00:36:23.022349Z
+133
+kleinerm
+
+CMUBox.m
+file
+
+
+
+
+2010-02-01T22:37:40.327179Z
+a8dd707c4a21c6c93bb2abfd8cce1f2f
+2009-10-27T01:04:39.830472Z
+1555
+kleinerm
+has-props
+
+PR655Toolbox
+dir
+
+DatapixxToolbox
+dir
+
+GetKeyboardIndices.m
+file
+
+
+
+
+2010-02-01T22:37:40.327179Z
+0867e609df8d6a9772f4f112239b935c
+2010-01-11T01:56:52.379376Z
+1630
+kleinerm
+
+MeasXYZ.m
+file
+
+
+
+
+2010-02-01T22:37:40.327179Z
+5a56cb4908d320c9ae7573a3e97a8dc8
+2009-02-18T01:34:23.476633Z
+1245
+kleinerm
+
+PsychHID.mexmaci
+file
+
+
+
+
+2010-02-01T22:37:40.342804Z
+f4205509896cb5f4a8932ca5d1ddf771
+2010-01-11T01:56:52.379376Z
+1630
+kleinerm
+has-props
+
+SerialComm.mexmac
+file
+
+
+
+
+2010-02-01T22:37:40.342804Z
+c133a6e9bc44ca02b9a0f18c731556c6
+2008-11-04T01:22:39.923909Z
+1149
+kleinerm
+has-props
+
+GetKeypadIndices.m
+file
+
+
+
+
+2010-02-01T22:37:40.342804Z
+a8b62c72970f5071bc4ed94f918a811a
+2010-01-11T01:56:52.379376Z
+1630
+kleinerm
+
+CedrusResponseBox.m
+file
+
+
+
+
+2010-02-01T22:37:40.342804Z
+d0c7d8a5a27ceb9db2aa2cf6ba19a689
+2008-11-04T01:22:39.923909Z
+1149
+kleinerm
+
+BrightSideDisplay
+dir
+
+CMCheckInit.m
+file
+
+
+
+
+2010-02-01T22:37:40.342804Z
+32f1fb39a800f3b1a15124d7f162775d
+2009-02-18T01:34:23.476633Z
+1245
+kleinerm
+
+SerialComm.mexmaci
+file
+
+
+
+
+2010-02-01T22:37:40.342804Z
+bfa23d72e651e04ecbd7888c241f5721
+2008-11-04T01:22:39.923909Z
+1149
+kleinerm
+has-props
+
+FindSerialPort.m
+file
+
+
+
+
+2010-02-01T22:37:40.342804Z
+cf01f421d4c2bed1ca85c9cb348042ca
+2009-08-24T15:58:32.229119Z
+1490
+kleinerm
+
+CMClose.m
+file
+
+
+
+
+2010-02-01T22:37:40.342804Z
+c93ada40dd173cdba94d4f3a50db2c7c
+2009-02-18T01:34:23.476633Z
+1245
+kleinerm
+
+ColorCal2
+dir
+
+iViewXToolbox
+dir
+
+PR650Toolbox
+dir
+
+Contents.m
+file
+
+
+
+
+2010-02-01T22:37:40.358429Z
+726449001bd1e6d7fecd2934703a392a
+2009-08-18T01:42:11.654900Z
+1485
+kleinerm
+
+PsychRTBox.m
+file
+
+
+
+
+2010-02-01T22:37:40.358429Z
+9b57a0b8e571b28f4aada08576424d87
+2010-01-11T01:56:52.379376Z
+1630
+kleinerm
+has-props
+
+ActiveWire
+dir
+
+PsychGamepad
+dir
+
+Daq
+dir
+
+FORP
+dir
+
+PsychHID.m
+file
+
+
+
+
+2010-02-01T22:37:40.374054Z
+a4092a23c03058657892ae90a484aa56
+2009-10-27T01:04:39.830472Z
+1555
+kleinerm
+
+EyelinkToolbox
+dir
+
+BitsPlusToolbox
+dir
+
